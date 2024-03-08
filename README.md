@@ -12,7 +12,7 @@ clone this repo, then enter into the directory of the project. To install the so
   make install
   make build
 ```
-the first command will download raylib-5.0 library and compile it, then it will move the .so file into /var/lib/ directory
+the first command will download raylib-5.0 library and compile it, then it will move the .so file into /usr/lib/ directory
 
 ## how to use it
 
